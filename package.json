@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/BitYoungjae/rollup-practice-1#readme",
   "devDependencies": {
-    "rollup": "^2.6.1"
+    "rollup": "^3.29.5"
   }
 }
